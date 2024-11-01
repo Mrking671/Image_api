@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+
+Name: img_enhancer.php
+SHA1-Digest: FF2QRRD40N0+fnKlM5XYlS+9YQo=
+
